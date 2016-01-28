@@ -12,14 +12,14 @@ git clone https://github.com/wjwwood/srial.git
 
 ```
 cd ~/catkin_ws/src
-https://nikhil@bitbucket.org/nikhil/nayan_msgs.git
+git clone https://github.com/nikhil9/nayan_msgs.git
 ```
 
 * Install nayan_ros
 
 ```
 cd ~/catk_ws/src
-git clone https://bitbucket.org/nikhil/nayan_ros.git
+git clone https://github.com/nikhil9/nayan_ros.git
 ```
 
 * Build all packages
