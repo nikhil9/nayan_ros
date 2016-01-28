@@ -1,0 +1,4 @@
+<launch>
+	<node pkg="nayan_ros" name="nayan_ros" type="nayan_ros" output="screen"/>
+	
+</launch>
