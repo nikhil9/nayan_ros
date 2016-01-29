@@ -5,7 +5,7 @@
    
 ```
 cd ~/catkin_ws/src
-git clone https://github.com/wjwwood/srial.git
+git clone https://github.com/wjwwood/serial.git
 ```
 
 * Install nayan_msgs
